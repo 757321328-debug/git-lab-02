@@ -53,10 +53,10 @@ and http://www.google.fr/ or <http://example.com/>
 
 ## Tables
 | Name       | Student ID |
-|------------|------------|
+| ---------- | ---------- |
 | heyuxuan   | 20242213   |
-| Fu Jiasen  | 20242216|
-| 朋友2的名字| 朋友2的学号|
+| Fu Jiasen  | 20242216   |
+| liangrutao | 20242225   |
 ---
 
 ## Code
